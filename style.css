@@ -328,6 +328,11 @@ body {
   transform: rotateX(90deg);
 }
 
+.view-3D.zoom-large #sun {
+    transform-style: preserve-3d;
+}
+  
+
   
   
   
