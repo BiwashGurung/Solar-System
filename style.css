@@ -309,6 +309,10 @@ body {
 .view-3D .opening .ring {
   transition-duration: 4s;
 }
+#universe.opening #sun {
+    box-shadow: 0 0 0 rgba(255, 160, 60, 0);
+}
+  
   
   
   
