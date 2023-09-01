@@ -419,6 +419,9 @@ body {
     transform: rotateX(0deg);
 }
   
+.zoom-close.view-3D .planet {
+    transform: rotateX(-90deg);
+}
   
 
   
