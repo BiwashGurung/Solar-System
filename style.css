@@ -344,6 +344,10 @@ body {
 .view-3D .ring {
     transform: rotateX(90deg);
 }
+.view-3D .planet,
+.view-3D .moon {
+  transform: rotateX(0deg);
+}
   
   
 
