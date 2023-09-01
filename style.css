@@ -299,6 +299,16 @@ body {
       transform: rotateX(-90deg) rotateY(0deg) rotateZ(0deg);
     }
   }
+
+
+.view-3D .opening #sun,
+.view-3D .opening .orbit,
+.view-3D .opening .pos,
+.view-3D .opening .planet,
+.view-3D .opening .satelite,
+.view-3D .opening .ring {
+  transition-duration: 4s;
+}
   
   
   
