@@ -509,7 +509,10 @@ body {
     font-size: 12em;
   }
   
- 
+  .scale-stretched #saturn .planet {
+    font-size: 10.8em;
+  }
+  
  
   
   
