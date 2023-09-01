@@ -501,7 +501,10 @@ body {
     font-size: 1.2em;
   }
   
- 
+  .scale-stretched #mars .planet {
+    font-size: 2.9em;
+  }
+  
  
  
  
