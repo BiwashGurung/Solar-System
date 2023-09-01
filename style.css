@@ -483,9 +483,13 @@ body {
 
 .scale-stretched #sun {
     font-size: 24em;
- }
+}
   
-  
+.scale-stretched #mercury .planet {
+    font-size: 1.5em;
+}
+ 
+ 
  
  
  
