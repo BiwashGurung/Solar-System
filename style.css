@@ -245,5 +245,8 @@ body {
 #venus {
     z-index: 9;
 }
+#earth {
+    z-index: 8;
+  }
   
   
