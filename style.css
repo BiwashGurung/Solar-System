@@ -241,5 +241,9 @@ body {
 
 #mercury {
     z-index: 10;
-  }
+}
+#venus {
+    z-index: 9;
+}
+  
   
