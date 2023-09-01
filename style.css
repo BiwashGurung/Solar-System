@@ -375,7 +375,11 @@ body {
     width: 200%;
     font-size: 100%;
 }
-
+  
+.zoom-close .scale-stretched #solar-system {
+    margin-left: -100%;
+}
+  
   
  
  
