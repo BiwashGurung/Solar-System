@@ -247,6 +247,9 @@ body {
 }
 #earth {
     z-index: 8;
-  }
+}
+#moon {
+    z-index: 7;
+}
   
   
