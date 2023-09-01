@@ -265,7 +265,10 @@ body {
 }
 #neptune {
     z-index: 2;
-  }
+}
+#sun {
+    z-index: 1;
+}
   
   
   
