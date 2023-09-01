@@ -290,6 +290,15 @@ body {
       transform: rotateX(90deg) rotateZ(-360deg);
     }
   }
+  @keyframes invert {
+    0% {
+      transform: rotateX(-90deg) rotateY(360deg) rotateZ(0deg);
+    }
+  
+    100% {
+      transform: rotateX(-90deg) rotateY(0deg) rotateZ(0deg);
+    }
+  }
   
   
   
