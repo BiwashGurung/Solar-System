@@ -331,6 +331,9 @@ body {
 .view-3D.zoom-large #sun {
     transform-style: preserve-3d;
 }
+.view-3D.zoom-large .orbit {
+    transform-style: preserve-3d;
+}
   
 
   
