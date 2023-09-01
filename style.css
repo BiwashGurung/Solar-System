@@ -438,6 +438,11 @@ body {
 #mercury.orbit {
   animation-duration: 2.89016s;
 }
+#venus .pos,
+#venus .planet,
+#venus.orbit {
+  animation-duration: 7.38237s;
+}
   
   
   
