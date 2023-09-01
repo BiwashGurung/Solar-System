@@ -340,6 +340,11 @@ body {
 .view-3D #sun {
     transform: rotateX(-90deg);
 }
+
+.view-3D .ring {
+    transform: rotateX(90deg);
+}
+  
   
 
   
