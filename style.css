@@ -427,7 +427,11 @@ body {
     transform: rotateX(90deg);
 }
   
-
+.zoom-close .pos {
+    left: 100% !important;
+    top: 50% !important;
+}
+  
   
   
 
