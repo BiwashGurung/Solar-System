@@ -316,6 +316,9 @@ body {
 .view-2D.zoom-large #sun {
     transform-style: flat;
 }
+.view-2D.zoom-large .orbit {
+    transform-style: flat;
+  }
   
   
   
