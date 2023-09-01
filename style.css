@@ -457,6 +457,11 @@ body {
 #mars.orbit {
   animation-duration: 22.57017s;
 }
+#jupiter .pos,
+#jupiter .planet,
+#jupiter.orbit {
+  animation-duration: 142.35138s;
+}
   
   
   
