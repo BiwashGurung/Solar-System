@@ -483,12 +483,16 @@ body {
 
 .scale-stretched #sun {
     font-size: 24em;
-}
+  }
   
-.scale-stretched #mercury .planet {
+  .scale-stretched #mercury .planet {
     font-size: 1.5em;
-}
- 
+  }
+  
+  .scale-stretched #venus .planet {
+    font-size: 3.72em;
+  }
+  
  
  
  
