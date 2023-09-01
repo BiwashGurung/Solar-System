@@ -431,6 +431,13 @@ body {
     left: 100% !important;
     top: 50% !important;
 }
+
+
+#mercury .pos,
+#mercury .planet,
+#mercury.orbit {
+  animation-duration: 2.89016s;
+}
   
   
   
