@@ -452,6 +452,11 @@ body {
 #earth .orbit {
   animation-duration: 0.89764s;
 }
+#mars .pos,
+#mars .planet,
+#mars.orbit {
+  animation-duration: 22.57017s;
+}
   
   
   
