@@ -462,6 +462,12 @@ body {
 #jupiter.orbit {
   animation-duration: 142.35138s;
 }
+#saturn .pos,
+#saturn .planet,
+#saturn.orbit,
+#saturn .ring {
+  animation-duration: 353.36998s;
+}
   
   
   
