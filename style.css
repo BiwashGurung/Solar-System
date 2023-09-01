@@ -348,6 +348,10 @@ body {
 .view-3D .moon {
   transform: rotateX(0deg);
 }
+
+.zoom-large #solar-system {
+    width: 100%;
+}
   
   
 
