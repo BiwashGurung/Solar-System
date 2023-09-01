@@ -414,7 +414,11 @@ body {
     animation: none !important;
 }
   
-
+.zoom-close.view-2D .planet,
+.zoom-close.view-2D .moon {
+    transform: rotateX(0deg);
+}
+  
   
 
   
