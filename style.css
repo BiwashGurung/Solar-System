@@ -352,6 +352,9 @@ body {
 .zoom-large #solar-system {
     width: 100%;
 }
+.zoom-large.view-2D .scale-stretched #solar-system {
+    font-size: 26%;
+}
   
   
 
