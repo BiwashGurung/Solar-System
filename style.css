@@ -166,3 +166,6 @@ body {
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
+.orbit .orbit {
+    animation-name: suborbit;
+  }
