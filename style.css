@@ -443,6 +443,11 @@ body {
 #venus.orbit {
   animation-duration: 7.38237s;
 }
+#earth .pos,
+#earth .planet,
+#earth.orbit {
+  animation-duration: 12.00021s;
+}
   
   
   
