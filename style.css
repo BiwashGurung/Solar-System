@@ -474,6 +474,11 @@ body {
   animation-duration: 1008.20215s;
 }
   
+#neptune .pos,
+#neptune .planet,
+#neptune.orbit {
+  animation-duration: 1977.49584s;
+}
   
   
 
