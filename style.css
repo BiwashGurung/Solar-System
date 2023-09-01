@@ -423,7 +423,9 @@ body {
     transform: rotateX(-90deg);
 }
   
-
+.zoom-close.view-3D .moon {
+    transform: rotateX(90deg);
+}
   
 
   
