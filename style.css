@@ -318,7 +318,12 @@ body {
 }
 .view-2D.zoom-large .orbit {
     transform-style: flat;
-  }
+}
+.view-2D #sun,
+.view-2D .ring {
+  transform: rotateX(0deg);
+}
+
   
   
   
